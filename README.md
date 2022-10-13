@@ -15,7 +15,7 @@
 ### Screenshot
 
 ![screenshot1](./resources/screenshot/Screenshot01.png)
-![screenshot2](.resources//screenshot/Screenshot02.png)
+![screenshot2](./resources//screenshot/Screenshot02.png)
 
 ### Links
 
