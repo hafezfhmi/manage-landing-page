@@ -1,4 +1,4 @@
-# 03 - Typealong Manage Landing Page
+# Codealong Manage Landing Page
 
 ## Table of contents
 
