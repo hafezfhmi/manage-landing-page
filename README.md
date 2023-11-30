@@ -19,7 +19,7 @@
 
 ### Links
 
-- Live Site URL: [Click here](https://03-typealong-manage-landing-page.netlify.app/)
+- Live Site URL: [Click here](https://manage-landing-page.hafezfhmi.com/)
 
 ## My process
 
