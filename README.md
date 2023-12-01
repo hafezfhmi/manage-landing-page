@@ -1,37 +1,43 @@
-# Codealong Manage Landing Page
+# manage landing page
 
-## Table of contents
+A landing page from [Tailwind Crash Course](https://youtu.be/dFgzHOX84xQ?si=GTOueTsyoIalm_28)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Conclusion](#conclusion)
-  - [Useful resources](#useful-resources)
+## Tech Stack
 
-## Overview
+**Client:** TailwindCSS
 
-### Screenshot
+## Run Locally
 
-![screenshot1](./resources/screenshot/Screenshot01.png)
-![screenshot2](./resources//screenshot/Screenshot02.png)
+Clone the project
 
-### Links
+```bash
+  git clone https://github.com/hafezfhmi/manage-landing-page.git
+```
 
-- Live Site URL: [Click here](https://manage-landing-page.hafezfhmi.com/)
+Go to the project directory
 
-## My process
+```bash
+  cd manage-landing-page
+```
 
-### Built with
+Install dependencies
 
-- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
+```bash
+  npm install
+```
 
-### Conclusion
+Run tailwindCSS build (optional)
 
-- A practice on tailwindcss framework.
-- The framework able to improve the speed of development and uniformize css with the utilities provided.
+```bash
+  npm run build
+```
 
-### Useful resources
+Open `index.html` in your browser
 
-- Source Tutorial: [Click here](https://youtu.be/dFgzHOX84xQ)
+## Screenshots
+
+![App Screenshot](./resources/screenshot/Screenshot01.png)
+
+## Demo
+
+https://manage-landing-page.hafezfhmi.com
